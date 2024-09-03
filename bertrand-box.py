@@ -1,4 +1,6 @@
 '''
+Bertrand's box paradox.
+
 There are three boxes:
     - a box containing two gold coins,
     - a box containing two silver coins,
